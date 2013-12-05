@@ -29,7 +29,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "jsdom": "~0.2.14",
+    "jsdom": "git+ssh://git@github.com:znanja/jsdom.git",
     "htmlparser": "1.7.6",
     "xmlhttprequest": "~1.3.0"
   },
